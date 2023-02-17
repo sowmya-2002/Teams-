@@ -1,4 +1,4 @@
-[5:58 PM, 2/17/2023] Jhanu: import java.util.*;
+ import java.util.*;
 public class MatchesProblem1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
